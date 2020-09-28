@@ -1,7 +1,7 @@
 {
   "name": "gpg-ts",
   "description": "GPG encryption and decryption in node.js by way of the gpg command-line tool. Now with TypeScript.",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "repository": {
     "type": "git",
     "url": "git://github.com/sdedovic/node-gpg-ts.git"
